@@ -19,4 +19,4 @@ int main() {
     printf("A media e: %.1f\n", media); 
  
     return 0; 
-} me de um nome para este repositorio 
+}
